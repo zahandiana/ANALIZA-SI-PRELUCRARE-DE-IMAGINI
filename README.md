@@ -56,5 +56,5 @@ Acest proiect demonstrează eficiența tehnicilor moderne de **procesare a imagi
 ---
 
 ### Autor
-Zahan Diana - [GitHub Profile]
+Zahan Diana - https://github.com/zahandiana
 
